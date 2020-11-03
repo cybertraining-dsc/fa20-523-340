@@ -5,7 +5,7 @@
 - [ ] background missing
 - [ ] dataset descriptionmissing
 
-Linde Aleksandr,_[fa20-523-340](https://github.com/cybertraining-dsc/fa20-523-340/), [Edit](https://github.com/cybertraining-dsc/fa20-523-340/blob/master/project/project.md)
+Linde Aleksandr, [fa20-523-340](https://github.com/cybertraining-dsc/fa20-523-340/), [Edit](https://github.com/cybertraining-dsc/fa20-523-340/blob/master/project/project.md)
 
 {{% pageinfo %}}
 
