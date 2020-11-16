@@ -5,13 +5,15 @@
 - [ ] background missing
 - [ ] dataset descriptionmissing
 
-Linde Aleksandr, [fa20-523-340](https://github.com/cybertraining-dsc/fa20-523-340/), [Edit](https://github.com/cybertraining-dsc/fa20-523-340/blob/master/project/project.md)
+[![Check Report](https://github.com/cybertraining-dsc/fa20-523-340/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-340/actions)
+
+Aleksandr Linde, [fa20-523-340](https://github.com/cybertraining-dsc/fa20-523-340/), [Edit](https://github.com/cybertraining-dsc/fa20-523-340/blob/main/project/project.md)
 
 {{% pageinfo %}}
 
 ## Abstract
 
-Missing
+TDB
 
 Contents
 
@@ -19,9 +21,7 @@ Contents
 
 {{% /pageinfo %}}
 
-**Keywords:** Missing 
-
-
+**Keywords:** TBD
 
 ## 1. Introduction
 
@@ -50,3 +50,11 @@ We all cling to different symbols for our identities and goals. Either of these 
 Both of these works touch upon the question of conformity and the effect it has on the individual in question. Its important to look at in what ways do the characters deal with conformity in their own settings.
  
 A counterargument in this case would be that one can have a fulfilling life even if they conform to societal expectations and abandon their dreams of pursuing their own fate. You dont have to push boundaries to be a happy person.
+
+## Conclusion
+
+TBD
+
+## Reference
+
+TBD
