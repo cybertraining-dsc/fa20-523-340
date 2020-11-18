@@ -6,6 +6,9 @@
 - [ ] dataset descriptionmissing
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-340/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-340/actions)
+[![Status](https://github.com/cybertraining-dsc/fa20-523-340/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-340/actions)
+Status: in progress
+
 
 Aleksandr Linde, [fa20-523-340](https://github.com/cybertraining-dsc/fa20-523-340/), [Edit](https://github.com/cybertraining-dsc/fa20-523-340/blob/main/project/project.md)
 
