@@ -82,7 +82,7 @@ Gaming has gone from a very niche and simple pastime to one of the biggest enter
 
 ## Acknowledgements
 
-I would like to thank Dr Gregor von Laszewski for helping me despite me taking a long time with quite a few assignments. Him and the rest of the AI team really saved me a couple of times. Cant thank them enough.
+I would like to thank Dr Gregor von Laszewski for helping me despite me taking a long time with quite a few assignments. I want to thank them for their massive help with any issues that arose in during the class period, as well as the excellent avaliablity of their help whenever it was needed. Would like to thank Dr. Geoffery Fox for his very informative and thorough class.
 
 
 
