@@ -1,7 +1,5 @@
 # Big Data Applications in the Gaming Industry
 
-- [ ] you have 22 refernces in your report, but yo only cite 16 of them
-
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-340/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-340/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-340/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-340/actions)
 Status: final, Type: Report
