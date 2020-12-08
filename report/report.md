@@ -84,7 +84,7 @@ I would like to thank Dr Gregor von Laszewski for helping me despite me taking a
 
 
 
-## 7. References
+## 7. Refernces
 
 [^1] The Average Gamer: How the Demographics Have Shifted. (n.d.). Retrieved December 08, 2020, from <https://www.gamesparks.com/blog/the-average-gamer-how-the-demographics-have-shifted/>
 
