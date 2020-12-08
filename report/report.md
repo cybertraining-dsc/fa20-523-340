@@ -82,6 +82,7 @@ Gaming has gone from a very niche and simple pastime to one of the biggest enter
 I would like to thank Dr Gregor von Laszewski for helping me despite me taking a long time with quite a few assignments. Him and the rest of the AI team really saved me a couple of times. Cant thank them enough.
 
 ## 7. References
+
 [^1] The Average Gamer: How the Demographics Have Shifted. (n.d.). Retrieved December 08, 2020, from <https://www.gamesparks.com/blog/the-average-gamer-how-the-demographics-have-shifted/>
 
 [^2] Nakamura, Y. (2019, January 23). Peak Video Game? Retrieved December 08, 2020, from <https://www.bloomberg.com/news/articles/2019-01-23/peak-video-game-top-analyst-sees-industry-slumping-in-2019>
