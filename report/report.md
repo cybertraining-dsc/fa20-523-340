@@ -130,4 +130,3 @@ I would like to thank Dr Gregor von Laszewski for helping me despite me taking a
 [^22] -, G., By, -, & Contributor, G. (2020, January 02). Online Gaming Industry Faced with Big Data Analytics Challenges. Retrieved December 08, 2020, from <https://southfloridareporter.com/online-gaming-industry-faced-with-big-data-analytics-challenges/>
 
 [^23] Is AI in Video Games the Future of Gaming? (2020, November 21). Retrieved December 08, 2020, from <https://www.gamedesigning.org/gaming/artificial-intelligence/>
-
