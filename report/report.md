@@ -86,11 +86,11 @@ I would like to thank Dr Gregor von Laszewski for helping me despite me taking a
 
 ## 7. Refernces
 
-[^1] The Average Gamer: How the Demographics Have Shifted. (n.d.). Retrieved December 08, 2020, from <https://www.gamesparks.com/blog/the-average-gamer-how-the-demographics-have-shifted/>
+[^1]: The Average Gamer: How the Demographics Have Shifted. (n.d.). Retrieved December 08, 2020, from <https://www.gamesparks.com/blog/the-average-gamer-how-the-demographics-have-shifted/>
 
-[^2] Nakamura, Y. (2019, January 23). Peak Video Game? Retrieved December 08, 2020, from <https://www.bloomberg.com/news/articles/2019-01-23/peak-video-game-top-analyst-sees-industry-slumping-in-2019>
+[^2]: Nakamura, Y. (2019, January 23). Peak Video Game? Retrieved December 08, 2020, from <https://www.bloomberg.com/news/articles/2019-01-23/peak-video-game-top-analyst-sees-industry-slumping-in-2019>
 
-[^3] Rands, D., & Rands, K. (2018, January 26). How big data is disrupting the gaming industry. Retrieved December 08, 2020, from <https://www.cio.com/article/3251172/how-big-data-is-disrupting-the-gaming-industry.html>
+[^3]: Rands, D., & Rands, K. (2018, January 26). How big data is disrupting the gaming industry. Retrieved December 08, 2020, from <https://www.cio.com/article/3251172/how-big-data-is-disrupting-the-gaming-industry.html>
 
 [^4]: Kaplan, O. (2019, August 22). Mobile gaming is a $68.5 billion global business, and investors are buying in. Retrieved December 08, 2020, from <https://techcrunch.com/2019/08/22/mobile-gaming-mints-money/>
 
@@ -128,4 +128,4 @@ I would like to thank Dr Gregor von Laszewski for helping me despite me taking a
 
 [^21]: Site Admin. (2017, March 18). Retrieved December 08, 2020, from <http://dmtolpeko.com/2017/03/18/moba-games-analytics-platform-balance-details/>
 
-[^22] Is AI in Video Games the Future of Gaming? (2020, November 21). Retrieved December 08, 2020, from <https://www.gamedesigning.org/gaming/artificial-intelligence/>
+[^22]: Is AI in Video Games the Future of Gaming? (2020, November 21). Retrieved December 08, 2020, from <https://www.gamedesigning.org/gaming/artificial-intelligence/>
