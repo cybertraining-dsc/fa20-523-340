@@ -70,8 +70,8 @@ Anything that includes player vs player is very difficult to balance for as well
 
 ## 5. WHAT THE FUTURE HOLDS
 
-One thing we can definitely count on is the sheer amount of data that is going to be generated from now on my gaming. With always online experiences being the norm, machines send data reports back to the main system which matches them with other players in the same instance to allow playing in the same world. As more and more players enter the community, we will run into the issue of where an absurdly massive amount of data is being generated, and not all of it is positive. Its going to get harder to get the full picture since now looking over all the data would make the task of sifting through it extremely difficult [^22]. 
-What is most exciting is the developments of self-learning AI based on the mountains of this newfound data. Currently unless you use two tier AI systems, there isn’t a way to make AI believable, and having bad AI can potentially ruin a game for most players. With more advancements in reliable AI systems based on potent data analysis, there exists the potential for AI that is near indistinguishable from players [^23]. 
+One thing we can definitely count on is the sheer amount of data that is going to be generated from now on my gaming. With always online experiences being the norm, machines send data reports back to the main system which matches them with other players in the same instance to allow playing in the same world. As more and more players enter the community, we will run into the issue of where an absurdly massive amount of data is being generated, and not all of it is positive. Its going to get harder to get the full picture since now looking over all the data would make the task of sifting through it extremely difficult. 
+What is most exciting is the developments of self-learning AI based on the mountains of this newfound data. Currently unless you use two tier AI systems, there isn’t a way to make AI believable, and having bad AI can potentially ruin a game for most players. With more advancements in reliable AI systems based on potent data analysis, there exists the potential for AI that is near indistinguishable from players [^22]. 
 
 ## 6. Conclusion
 
@@ -92,42 +92,40 @@ I would like to thank Dr Gregor von Laszewski for helping me despite me taking a
 
 [^3] Rands, D., & Rands, K. (2018, January 26). How big data is disrupting the gaming industry. Retrieved December 08, 2020, from <https://www.cio.com/article/3251172/how-big-data-is-disrupting-the-gaming-industry.html>
 
-[^4] Kaplan, O. (2019, August 22). Mobile gaming is a $68.5 billion global business, and investors are buying in. Retrieved December 08, 2020, from <https://techcrunch.com/2019/08/22/mobile-gaming-mints-money/>
+[^4]: Kaplan, O. (2019, August 22). Mobile gaming is a $68.5 billion global business, and investors are buying in. Retrieved December 08, 2020, from <https://techcrunch.com/2019/08/22/mobile-gaming-mints-money/>
 
-[^5] Silver, L., Smith, A., Johnson, C., Jiang, J., Anderson, M., & Rainie, L. (2020, August 25). 1. Use of smartphones and social media is common across most emerging economies. Retrieved December 08, 2020, from <https://www.pewresearch.org/internet/2019/03/07/use-of-smartphones-and-social-media-is-common-across-most-emerging-economies/>
+[^5]: Silver, L., Smith, A., Johnson, C., Jiang, J., Anderson, M., & Rainie, L. (2020, August 25). 1. Use of smartphones and social media is common across most emerging economies. Retrieved December 08, 2020, from <https://www.pewresearch.org/internet/2019/03/07/use-of-smartphones-and-social-media-is-common-across-most-emerging-economies/>
 
-[^6] Ali, A. (2020, November 10). The State of the Multi-Billion Dollar Console Gaming Market. Retrieved December 08, 2020, from <https://www.visualcapitalist.com/multi-billion-dollar-console-gaming-market/>
+[^6]: Ali, A. (2020, November 10). The State of the Multi-Billion Dollar Console Gaming Market. Retrieved December 08, 2020, from <https://www.visualcapitalist.com/multi-billion-dollar-console-gaming-market/>
 
-[^7] Filippo, A. (2019, December 17). Our attention spans are changing, and so must game design. Retrieved December 08, 2020, from <https://www.polygon.com/2019/12/17/20928761/game-design-subscriptions-attention>
+[^7]: Filippo, A. (2019, December 17). Our attention spans are changing, and so must game design. Retrieved December 08, 2020, from <https://www.polygon.com/2019/12/17/20928761/game-design-subscriptions-attention>
 
-[^8] Addepto. (2019, March 07). Benefits of Big Data Analytics in the Mobile Gaming Industry. Retrieved December 08, 2020, from <https://medium.com/datadriveninvestor/benefits-of-big-data-analytics-in-the-mobile-gaming-industry-2b4747b90878>
+[^8]: Addepto. (2019, March 07). Benefits of Big Data Analytics in the Mobile Gaming Industry. Retrieved December 08, 2020, from <https://medium.com/datadriveninvestor/benefits-of-big-data-analytics-in-the-mobile-gaming-industry-2b4747b90878>
 
-[^9] Matrofailo, I. (2015, December 21). Retention and LTV as Core Metrics to Measure Mobile Game Performance. Retrieved December 08, 2020, from <https://medium.com/@imatrof/retention-and-ltv-as-core-metrics-to-measure-mobile-game-performance-89229e70f710>
+[^9]: Matrofailo, I. (2015, December 21). Retention and LTV as Core Metrics to Measure Mobile Game Performance. Retrieved December 08, 2020, from <https://medium.com/@imatrof/retention-and-ltv-as-core-metrics-to-measure-mobile-game-performance-89229e70f710>
 
-[^10] Batt, S. (2018, October 04). What Is a "Whale" In Mobile Gaming? Retrieved December 08, 2020, from <https://www.maketecheasier.com/what-is-whale-in-mobile-gaming/>
+[^10]: Batt, S. (2018, October 04). What Is a "Whale" In Mobile Gaming? Retrieved December 08, 2020, from <https://www.maketecheasier.com/what-is-whale-in-mobile-gaming/>
 
-[^11] Shaul, B. (2016, March 01). Infographic: 'Whales' Account for 70% of In-App Purchase Revenue. Retrieved December 08, 2020, from <https://www.adweek.com/digital/infographic-whales-account-for-70-of-in-app-purchase-revenue/>
+[^11]: Shaul, B. (2016, March 01). Infographic: 'Whales' Account for 70% of In-App Purchase Revenue. Retrieved December 08, 2020, from <https://www.adweek.com/digital/infographic-whales-account-for-70-of-in-app-purchase-revenue/>
 
-[^12] Perez, D. (2012, January 13). Skinner's Box and Video Games: How to Create Addictive Games - LevelSkip - Video Games. Retrieved December 08, 2020, from <https://levelskip.com/how-to/Skinners-Box-and-Video-Games>
+[^12]: Perez, D. (2012, January 13). Skinner's Box and Video Games: How to Create Addictive Games - LevelSkip - Video Games. Retrieved December 08, 2020, from <https://levelskip.com/how-to/Skinners-Box-and-Video-Games>
 
-[^13] Muench Frederickm (2014, March 18), The New Skinner Box: We and Mobile Analytics,  December 7th 2020, <https://www.psychologytoday.com/us/blog/more-tech-support/201403/the-new-skinner-box-web-and-mobile-analytics>
+[^13]: Muench Frederickm (2014, March 18), The New Skinner Box: We and Mobile Analytics,  December 7th 2020, <https://www.psychologytoday.com/us/blog/more-tech-support/201403/the-new-skinner-box-web-and-mobile-analytics>
 
-[^14] Gardner, M. (2020, September 19). Report: Gaming Industry Value To Rise 30%–With Thanks To Microtransactions. Retrieved December 08, 2020, from <https://www.forbes.com/sites/mattgardner1/2020/09/19/gaming-industry-value-200-billion-fortnite-microtransactions/?sh=3374fce32bb4>
+[^14]: Gardner, M. (2020, September 19). Report: Gaming Industry Value To Rise 30%–With Thanks To Microtransactions. Retrieved December 08, 2020, from <https://www.forbes.com/sites/mattgardner1/2020/09/19/gaming-industry-value-200-billion-fortnite-microtransactions/?sh=3374fce32bb4>
 
-[^15] Gardner, M. (2020, June 11). What's The Future Of Gaming? Industry Professors Tell Us What To Expect. Retrieved December 08, 2020, from <https://www.forbes.com/sites/mattgardner1/2020/06/11/whats-the-future-of-gaming-industry-professors-tell-us-what-to-expect/>
+[^15]: Gardner, M. (2020, June 11). What's The Future Of Gaming? Industry Professors Tell Us What To Expect. Retrieved December 08, 2020, from <https://www.forbes.com/sites/mattgardner1/2020/06/11/whats-the-future-of-gaming-industry-professors-tell-us-what-to-expect/>
 
-[^16] Maass, L. (2019, July 01). Artificial Intelligence in Video Games. Retrieved December 08, 2020, from <https://towardsdatascience.com/artificial-intelligence-in-video-games-3e2566d59c22>
+[^16]: Maass, L. (2019, July 01). Artificial Intelligence in Video Games. Retrieved December 08, 2020, from <https://towardsdatascience.com/artificial-intelligence-in-video-games-3e2566d59c22>
 
-[^17] Burford, G. (2016, April 26). Alien Isolation's Artificial Intelligence Was Good...Too Good. Retrieved December 08, 2020, from <https://kotaku.com/alien-isolations-artificial-intelligence-was-good-too-1714227179>
+[^17]: Burford, G. (2016, April 26). Alien Isolation's Artificial Intelligence Was Good...Too Good. Retrieved December 08, 2020, from <https://kotaku.com/alien-isolations-artificial-intelligence-was-good-too-1714227179>
 
-[^18] Ozyazgan, E. (2019, December 14). The Data Science Boom in Esports. Retrieved December 08, 2020, from <https://towardsdatascience.com/the-data-science-boom-in-esports-8cf9a59fd573/>
+[^18]: Ozyazgan, E. (2019, December 14). The Data Science Boom in Esports. Retrieved December 08, 2020, from <https://towardsdatascience.com/the-data-science-boom-in-esports-8cf9a59fd573/>
 
-[^19] Sergeev, A. (2019, July 15). Analytics of Map Design: Use Big Data to Build Levels. Retrieved December 08, 2020, from <https://80.lv/articles/analytics-of-map-design-use-big-data-to-build-levels/>
+[^19]: Sergeev, A. (2019, July 15). Analytics of Map Design: Use Big Data to Build Levels. Retrieved December 08, 2020, from <https://80.lv/articles/analytics-of-map-design-use-big-data-to-build-levels/>
 
-[^20] Cormack, L. (2018, June 29). Balancing game data with player data - DR Studios/505 Games. Retrieved December 08, 2020, from <https://deltadna.com/blog/balancing-game-data-player-data/>
+[^20]: Cormack, L. (2018, June 29). Balancing game data with player data - DR Studios/505 Games. Retrieved December 08, 2020, from <https://deltadna.com/blog/balancing-game-data-player-data/>
 
-[^21] Site Admin. (2017, March 18). Retrieved December 08, 2020, from <http://dmtolpeko.com/2017/03/18/moba-games-analytics-platform-balance-details/>
+[^21]: Site Admin. (2017, March 18). Retrieved December 08, 2020, from <http://dmtolpeko.com/2017/03/18/moba-games-analytics-platform-balance-details/>
 
-[^22] -, G., By, -, & Contributor, G. (2020, January 02). Online Gaming Industry Faced with Big Data Analytics Challenges. Retrieved December 08, 2020, from <https://southfloridareporter.com/online-gaming-industry-faced-with-big-data-analytics-challenges/>
-
-[^23] Is AI in Video Games the Future of Gaming? (2020, November 21). Retrieved December 08, 2020, from <https://www.gamedesigning.org/gaming/artificial-intelligence/>
+[^22] Is AI in Video Games the Future of Gaming? (2020, November 21). Retrieved December 08, 2020, from <https://www.gamedesigning.org/gaming/artificial-intelligence/>
