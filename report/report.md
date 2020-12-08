@@ -5,7 +5,7 @@
 Status: final, Type: Report
 
 
-Aleksandr Linde, [fa20-523-340](https://github.com/cybertraining-dsc/fa20-523-340/), [Edit](https://github.com/cybertraining-dsc/fa20-523-340/blob/main/project/project.md)
+Aleksandr Linde, [fa20-523-340](https://github.com/cybertraining-dsc/fa20-523-340/), [Edit](https://github.com/cybertraining-dsc/fa20-523-340/blob/main/report/report.md)
 
 {{% pageinfo %}}
 
@@ -13,16 +13,13 @@ Aleksandr Linde, [fa20-523-340](https://github.com/cybertraining-dsc/fa20-523-34
 
 Gaming is one of the fastest growing aspects of the modern entertainment industry. It’s a rapidly evolving market, where trends can change in a near instant, meaning that companies need to be ready for near anything when making decisions that may impact development times, targets and milestones. Companies need to be able to see market trends as they happen, not post factum, which frequently means predicting things based off of freshly incoming data. Big data is also used for development of the games themselves, allowing for new experiences and capabilities. It’s a relatively new use for big data, but as AI capabilities in games are developed further this is becoming a very important method of providing more immersive experiences. Last use case that will be talked about, is monetization in games, as big data has also found a use there as well.
 
+Contents
+
 {{< table_of_contents >}}
 
 {{% /pageinfo %}}
 
-**Keywords:** Gaming, big data, product development, computer science, technology, Microtransactions
-
-Big Data Applications in the Gaming Industry.
-Linde Aleksandr
-E534
-atlinde@iu.edu
+**Keywords:** gaming, big data, product development, computer science, technology, microtransactions, artifician intelligence
 
 ## 1  Introduction
 
@@ -46,12 +43,11 @@ A big reason for the integration of big data analytics into mobile games comes f
 ### 2.1 Mobile game monetizaton
 
 Most mobile games operate on the freemium model, where the base game is free, but you pay for things such as boosts, upgrades and cosmetics. Systems such as this still allow you to earn most things in the game normally, yet make it prohibitively difficult to do so, requiring a large time investment. What happens often in this case is that players will spend money to save time and effort that would have normally gone into grinding out these items for free [10]. So why is this effective? Because the initial entry barrier is quite literally nonexistent and the main monetization fees don’t actually cost that much at first, making up mostly 5-10$ purchases. This doesn’t seem like much, but this eventually reaches into the sunk cost fallacy where users get so ingrained in an ecosystem and simply don’t want to leave. Mobile monetization platform Tapjoy recently used big data analysis to identify 5 different categories of mobile users [^11]. The one that interests us the most is the whales. Whales are called as such due to how despite making up only 10% of a game’s population, they will usually be responsible for 70% of the cash flow from games. Many developers work specifically to design systems that aren’t exactly fun but work more to trap players like this within the ecosystem. While we may not agree with this rather predatory practice, its another big data application to be cognizant of. 
-It works off the same principle that gambling does via enticing potential rewards that don’t actually have public truthful chances of it actually happening. When the positive effect happens, it’s usually minor, but still works like a Skinner box trigger where the user gets the positive feedback that further keeps them in the churn loop. [^12]. Is it scummy? Many players think so but using big data in this case allows us to hyper target these users. Big data analytics generate user reports that show directly what users are most susceptible, how to reach them and most importantly how to stick them into the endless loop where they keep dumping more and more money into a game that many don’t really even love anymore [^13]. For companies this is great, since it earns you a customer who is guaranteed to stay and dump money in a marketplace where getting the average user to pay even 5$ for anything is already a feat that many cant handle. Using big data lets developers and companies be 10 steps ahead of potential users. By the time they realize they are addicted its far too late. Similar systems are making their way into our desktop and console spaces as well.
+It works off the same principle that gambling does, via enticing potential rewards that don’t actually have public truthful chances of it actually happening. When the positive effect happens, it’s usually minor, but still works like a Skinner box trigger where the user gets the positive feedback that further keeps them in the churn loop. [^12]. Is it scummy? Many players think so but using big data in this case allows us to hyper target these users. Big data analytics generate user reports that show directly what users are most susceptible, how to reach them and most importantly how to stick them into the endless loop where they keep dumping more and more money into a game that many don’t really even love anymore [^13]. For companies this is great, since it earns you a customer who is guaranteed to stay and dump money in a marketplace where getting the average user to pay even 5$ for anything is already a feat that many cant handle. Using big data lets developers and companies be 10 steps ahead of potential users. By the time they realize they are addicted its far too late. Similar systems are making their way into our desktop and console spaces as well.
 
 ### 2.2 Profits from Monetization.
 
-In fact, microtransactions that function this way can now be found on every platform and genre, all due to how insanely profitable it is. This year, gaming industry valuations rose 30% because of the absurd amounts of money that get pulled in via microtransactions. [^14]. All of this, possible only due to the massively increasing use of big data analytical tools. Why make a good game, when you can hyper tailor the monetization so that players are guaranteed to stop caring about how good your game actually is when they get sufficiently sucked in enough. This trend is only increasing since its predicted that by 2023, 99% of all game downloads will be free to play with various forms of microtransaction based monetization [^14].
-However, its not all doom and gloom. Big data can also be used for some other really interesting applications when it comes to developing the game itself, and not just the predatory monetization methodology.
+In fact, microtransactions that function this way can now be found on every platform and genre, all due to how insanely profitable it is. This year, gaming industry valuations rose 30% because of the absurd amounts of money that get pulled in via microtransactions. [^14]. All of this, possible only due to the massively increasing use of big data analytical tools. Why make a good game, when you can hyper tailor the monetization so that players are guaranteed to stop caring about how good your game actually is when they get sufficiently sucked in enough. This trend is only increasing since its predicted that by 2023, 99% of all game downloads will be free to play with various forms of microtransaction based monetization [^14]. However, its not all doom and gloom. Big data can also be used for some other really interesting applications when it comes to developing the game itself, and not just the predatory monetization methodology.
 
 ## 3 Big Data and AI Development on In-Game AI Systems
 
