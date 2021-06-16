@@ -3,7 +3,7 @@ date: 2021-03-15
 title: Big Data Applications in the Gaming Industry
 linkTitle: Gaming
 tags: ["project", "ai", ""]
-description: Big Data Applications in the Gaming Industry
+description: "Gaming is one of the fastest growing aspects of the modern entertainment industry. It’s a rapidly evolving market, where trends can change in a near instant, meaning that companies need to be ready for near anything when making decisions that may impact development times, targets and milestones. Companies need to be able to see market trends as they happen, not post factum, which frequently means predicting things based off of freshly incoming data. Big data is also used for development of the games themselves, allowing for new experiences and capabilities. It’s a relatively new use for big data, but as AI capabilities in games are developed further this is becoming a very important method of providing more immersive experiences. Last use case that will be talked about, is monetization in games, as big data has also found a use there as well."
 author: Aleksandr Linde
 resources:
 - src: "**.{png,jpg}"
