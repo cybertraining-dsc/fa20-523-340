@@ -1,4 +1,14 @@
-# Big Data Applications in the Gaming Industry
+---
+date: 2021-03-15
+title: Big Data Applications in the Gaming Industry
+linkTitle: Gaming
+tags: ["project", "ai", ""]
+description: Big Data Applications in the Gaming Industry
+author: Aleksandr Linde
+resources:
+- src: "**.{png,jpg}"
+  title: "Image #:counter"
+---
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-340/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-340/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-340/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-340/actions)
