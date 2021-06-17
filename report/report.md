@@ -15,7 +15,6 @@ resources:
 [![Status](https://github.com/cybertraining-dsc/fa20-523-340/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-340/actions)
 Status: final, Type: Report
 
-
 Aleksandr Linde, [fa20-523-340](https://github.com/cybertraining-dsc/fa20-523-340/), [Edit](https://github.com/cybertraining-dsc/fa20-523-340/blob/main/report/report.md)
 
 {{% pageinfo %}}
